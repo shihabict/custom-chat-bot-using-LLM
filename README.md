@@ -1,1 +1,1 @@
-# custom-chat-bot-using-LLM
+# custom-chat-bot-using-RAG
